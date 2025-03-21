@@ -5,4 +5,4 @@ A time series project that uses Linear Regression, Decision Tree, ARIMA, Random 
 RMSE is used for scoring.
 
 on GitHub:
-https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries/blob/main/notebooks/Sprint13_SweetTaxi_timeSeries_ver4.ipynb
+https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries/blob/main/notebooks/Sprint13_SweetTaxi_timeSeries_ver5_final.ipynb
